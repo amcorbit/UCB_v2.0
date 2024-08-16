@@ -1,0 +1,6 @@
+[0917/114632.818:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0917/121314.822:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0917/121314.847:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0917/121314.868:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0917/121314.881:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0917/121314.888:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.

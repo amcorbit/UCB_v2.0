@@ -1,0 +1,16 @@
+\t (00:00:06) allegro 16.6-2015 S057 (v16-6-112EM) Windows 32
+\t (00:00:06)     Journal start - Tue Jul 11 20:32:32 2017
+\t (00:00:06)         Host=ANSIBLE_HD User=tesla Pid=13400 CPUs=8
+\t (00:00:06) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:06) 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Design opened: C:/Users/tesla/Dropbox/NCREPT/Projects/Unified_Control_Boards/PCBs/Peripheral_Boards/BaseBoard-4Layer_v1/BaseBoard-4Layer_v1.brd
+\i (00:00:12) trapsize 5271
+\i (00:00:12) trapsize 5093
+\i (00:00:12) trapsize 5302
+\i (00:00:13) trapsize 5634
+\i (00:00:13) trapsize 5634
+\i (00:00:13) generaledit 
+\i (00:00:20) new 
+\i (00:02:18) newdrawfillin "XPort.dra" "Package Symbol (Wizard)"
+\t (00:02:18)     Journal end - Tue Jul 11 20:34:43 2017

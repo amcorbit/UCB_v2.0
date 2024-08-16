@@ -1,0 +1,45 @@
+\t (00:00:08) allegro 17.2 S050 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Feb 10 16:42:01 2021
+\t (00:00:08)         Host=ELEG-NC204W02 User=cfarnell Pid=1496 CPUs=8
+\t (00:00:08) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\cfarnell\Box\cfarnell_Root\NCREPT\Projects\Unified_Control_Boards\PCBs\UCB\UCB-BaseBoard-4Layer_v1\UCB-BaseBoard-4Layer_v1.brd
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:14) Opening existing design...
+\i (00:00:19) fillin yes 
+\i (00:00:19) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged UCB-BaseBoard-4Layer_v1
+\d (00:00:20) Design opened: C:/Users/cfarnell/Box/cfarnell_Root/NCREPT/Projects/Unified_Control_Boards/PCBs/UCB/UCB-BaseBoard-4Layer_v1/UCB-BaseBoard-4Layer_v1.brd
+\i (00:00:21) trapsize 8998
+\i (00:00:21) trapsize 9246
+\i (00:00:21) trapsize 14143
+\i (00:00:21) trapsize 11580
+\i (00:00:22) generaledit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -1876.40 3595.56
+\i (00:00:26) trapsize 5790
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -1876.40 3595.56
+\i (00:00:26) trapsize 2895
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -1876.40 3595.56
+\i (00:00:26) trapsize 1448
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -1876.40 3595.56
+\i (00:00:26) trapsize 724
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -1869.16 3594.12
+\i (00:00:27) trapsize 1448
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -1863.36 3591.23
+\i (00:00:27) trapsize 2895
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -1469.63 3515.95
+\i (00:00:27) trapsize 5790
+\i (00:00:29) exit 
+\t (00:00:29)     Journal end - Wed Feb 10 16:42:23 2021
