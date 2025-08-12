@@ -1,0 +1,309 @@
+(ExpressProject "UCB_V1-0"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[11/12/24]")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library\new_ucb_parts.olb"
+        (Type "Schematic Library"))
+      (File "o:\submitted\symbols\ncrept_lib-submitted.olb"
+        (Type "Schematic Library"))
+      (File "o:\approved\symbols\ncrept_lib-approved.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\ucb_v2.0a.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\ucb_v2.0a.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "c:\users\jej029\desktop\archived-ucb_v1.4a\ucb_v1.4a.brd")
+    ("Allegro Netlist Output Board File" ".\ucb_v2.0a_11nov2024.brd")
+    ("Allegro Netlist Remove Etch" "TRUE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "61215")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File ".\ucb_v2.0a.RPT")
+    (FLDSTUFF_Update_File ".\ucb_v2.0a.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "1")
+    (FLDSTUFF_Create_Report_File "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File
+       "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\ucb_v2.0a.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\ucb_v2.0a.brd")
+      (InputBoard "..\archived-ucb_v1.4a\ucb_v1.4a.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\ucb_v2.0a_11nov2024.brd"
+      (Type "Board File")
+      (OutputBoard ".\ucb_v2.0a_11nov2024.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\ucb_v1.0.prp"
+      (Type "Report")
+      (DisplayName "UCB_V1.0.PRP"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\ucb_v2.0a.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (F28379D_DIMM
+      (FullPartName "F28379D_DIMM.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (MX25V1635FM1I
+      (FullPartName "MX25V1635FM1I.Normal")
+      (LibraryName
+         "C:\USERS\JEJ029\DESKTOP\ARCHIVED-UCB_V2.0A\LIBRARY\NEW_UCB_PARTS.OLB")
+      (DeviceIndex "0"))
+    (LCMXO3D-9400-BG484
+      (FullPartName "LCMXO3D-9400-BG484A.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (R-Standard
+      (FullPartName "R-Standard.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (Connector-2
+      (FullPartName "Connector-2.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (USB_Mini-B
+      (FullPartName "USB_Mini-B.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (Crystal-CB3LV
+      (FullPartName "Crystal-CB3LV.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (Header_2x20
+      (FullPartName "Header_2x20.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (SW-4_DIP
+      (FullPartName "SW-4_DIP.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST-2/SM"
+      (FullPartName "SW PUSHBUTTON-SPST-2/SM.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (XPORT
+      (FullPartName "XPORT.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (Ind
+      (FullPartName "Ind.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (Header_1x8
+      (FullPartName "Header_1x8.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (93LC56C
+      (FullPartName "93LC56C.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (Crystal-TXC-7M
+      (FullPartName "Crystal-TXC-7M.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (FT2232HL
+      (FullPartName "FT2232HL.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    ("CAP P"
+      (FullPartName "CAP P.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (LTC3649
+      (FullPartName "LTC3649.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "0"))
+    (LCMXO2-2000/4000/7000-FG484
+      (FullPartName "LCMXO2-2000/4000/7000-FG484GG.Normal")
+      (LibraryName "O:\SUBMITTED\SYMBOLS\NCREPT_LIB-SUBMITTED.OLB")
+      (DeviceIndex "6"))
+    (Header_2x7
+      (FullPartName "Header_2x7.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0"))
+    (F28335_DIMM
+      (FullPartName "F28335_DIMM.Normal")
+      (LibraryName "O:\APPROVED\SYMBOLS\NCREPT_LIB-APPROVED.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\ucb_v2.0a.dsn")
+      (Path "Design Resources"
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\ucb_v2.0a.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\ucb_v2.0a.dsn"
+         "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 0 0 0 419 0 622"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 3400 24 1125")
+        (Scroll "-752 0")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "JTAG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 3400 24 1125")
+        (Scroll "-974 -2")
+        (Zoom "70")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Connectors-DIMM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 3400 24 1125")
+        (Scroll "-267 214")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Connectors-IDC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 3400 24 1125")
+        (Scroll "-671 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Supplies"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 3400 24 1125")
+        (Scroll "-671 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AMCORBIT\DOWNLOADS\ARCHIVED-UCB_V2.0A\ARCHIVED-UCB_V2.0A_ANNA\UCB_V2.0A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CPLD")))
+  (MPSSessionName "amcorbit")
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\amcorbit\downloads\archived-ucb_v2.0a\archived-ucb_v2.0a_anna\allegro\genfeed.log"))
+    (File ".\allegro\swp.log"
+      (Type "Log File")
+      (LogFile "c:\users\jej029\desktop\archived-ucb_v2.0a\allegro\swp.log"))))
